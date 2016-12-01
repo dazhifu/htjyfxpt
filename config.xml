@@ -15,7 +15,6 @@
     <plugin name="https://github.com/dazhifu/cordova-plugin-splashscreen.git" source="npm"  />
     <plugin name="cordova-plugin-statusbar" source="npm"  />
     <plugin name="cordova-plugin-dialogs" source="npm"  />
-    <plugin name="cordova-plugin-inappbrowser" source="npm"  />
     <plugin name="cordova-plugin-crosswalk-webview" source="npm"  />
 
     <platform name="android">
